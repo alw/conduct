@@ -2,11 +2,11 @@
 
 **This policy is a "living" document, and subject to refinement and expansion in the future. Last updated May 14, 2019.**
 
-Everyone participating in the XOXO community—including, but not limited to the XOXO Festival and Slack channel—is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, patrons (sponsors), volunteers, and staff.
+Everyone participating in the community— including, but not limited to in-person and digital events including ongoing gathering places like our Slack channel —is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, participants, contestants, patrons (sponsors), volunteers, visitors, staff, etc. It excludes no one.
 
-XOXO is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
+We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
-Anyone who violates this Code of Conduct may be sanctioned or expelled from these spaces at the discretion of the XOXO organizers.
+Anyone who violates this Code of Conduct may be sanctioned or expelled from these spaces at the discretion of the organizers.
 
 ## Definitions
 
@@ -26,10 +26,10 @@ Harassment includes:
 * Unwelcome sexual attention
 * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
 * Continued one-on-one communication after requests to cease
-* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other XOXO community members or other vulnerable people from intentional abuse
+* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other community members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication without consent by the involved parties
 
-XOXO prioritizes marginalized people’s safety over privileged people’s comfort. XOXO reserves the right not to act on complaints regarding:
+The organization prioritizes marginalized people’s safety over privileged people’s comfort. The organization reserves the right not to act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
@@ -40,10 +40,10 @@ XOXO prioritizes marginalized people’s safety over privileged people’s comfo
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, XOXO may take any action we deem appropriate, up to and including expulsion from all XOXO spaces and identification of the participant as a harasser to other XOXO community members or the general public.
+If a participant engages in harassing behavior, the organization may take any action we deem appropriate, up to and including expulsion from all organization-run spaces and identification of the participant as a harasser to other community members or the general public.
 
 ## Reporting and Enforcement
-If you are being harassed by a member of the XOXO community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [hi@xoxofest.com](mailto:hi@xoxofest.com).
+If you are being harassed by a member of the community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
 ### Festival
 
@@ -59,8 +59,8 @@ All reports will be handled in the strictest confidence. We will respond as prom
 
 ## Thanks
 
-This policy was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/).
+This policy was forked from the XOXO Code of Conduct (https://github.com/xoxo/conduct/) which was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/).
 
 Thank you also to [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) for their advice and support.
 
-This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct/). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct/). We encourage others to adopt (and enforce) similar policies by using and remixing ours.
