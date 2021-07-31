@@ -43,7 +43,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 If a participant engages in harassing behavior, the organization may take any action we deem appropriate, up to and including expulsion from all organization-run spaces and identification of the participant as a harasser to other community members or the general public.
 
 ## Reporting and Enforcement
-If you are being harassed by a member of the community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [hi@xoxofest.com](mailto:hi@xoxofest.com).
+If you are being harassed by a member of the community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [hey@wfidk.com](mailto:hey@wfidk.com).
 
 ### Festival
 
@@ -62,4 +62,4 @@ All reports will be handled in the strictest confidence. We will respond as prom
 This policy was forked from the XOXO Code of Conduct (https://github.com/xoxo/conduct/) which was based on resources provided by [Geek Feminism](https://geekfeminism.org/about/code-of-conduct/), and borrows heavily from similar open source policies authored by [JSConf AU](https://2018.jsconfau.com/code-of-conduct) and [Django](https://www.djangoproject.com/conduct/).
 [Ashe Dryden](https://www.ashedryden.com/) and [Karolina Szczur](https://thefox.is/) contributed advice and support.
 
-This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/conduct/). We encourage others to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/alw/conduct). We encourage others to adopt (and enforce) similar policies by using and remixing ours.
