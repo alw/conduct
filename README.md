@@ -45,7 +45,7 @@ If a participant engages in harassing behavior, the organization may take any ac
 ## Reporting and Enforcement
 If you are being harassed by a member of the community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [hey@wfidk.com](mailto:hey@wfidk.com).
 
-### Festival
+### Events
 
 Please contact any member of our production, volunteer or security team. Our team can be identified by their “Staff” t-shirts, and will be trained in how to address and report any incidents that attendees bring to their attention.
 
