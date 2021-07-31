@@ -2,7 +2,7 @@
 
 **This policy is a "living" document, and subject to refinement and expansion in the future. Last updated July 24, 2021.**
 
-Everyone participating in the community— including, but not limited to in-person and digital events along with ongoing gathering places like our Slack channel —is required to agree to the following Code of Conduct. This includes all attendees, speakers, performers, participants, contestants, patrons (sponsors), volunteers, visitors, staff, etc. It excludes no one.
+Everyone participating in the community— including, but not limited to in-person and digital events along with ongoing gathering places like our Slack channel —is required to agree to the following Code of Conduct. This includes all players, attendees, speakers, performers, participants, contestants, patrons (sponsors), volunteers, visitors, staff, etc. It excludes no one.
 
 We are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, mental illness, neurotype, physical appearance, body, age, race, ethnicity, nationality, language, or religion. We do not tolerate harassment of participants in any form.
 
